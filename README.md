@@ -1,6 +1,5 @@
 # Files List
-1. css_fluid.html
-2. css_fluid.css
+1. css_fluid_basic.html; css_fluid_basic.css
    
 # Resources
 1. CSS Fluid(Responsive Web Design) Tutorial 
