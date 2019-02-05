@@ -10,3 +10,6 @@
 2. CSS Fluid Templates
    https://www.w3schools.com/css/css_rwd_templates.asp
    
+3. Web Full Stack Development Basic.
+   https://codeflow.study/web-deprecated/65
+   
