@@ -6,10 +6,8 @@
 # Resources
 1. CSS Fluid(Responsive Web Design) Tutorial 
    https://www.w3schools.com/css/css_rwd_intro.asp
-   
-2. CSS Fluid Templates
-   https://www.w3schools.com/css/css_rwd_templates.asp
-   
-3. Web Full Stack Development Basic.
-   https://codeflow.study/chat/overview
+      
+2. Web Full Stack Development Resource.
+   https://codeburst.io/100-free-resources-to-learn-full-stack-web-development-5b40e0bdf5f2
+
    
